@@ -1,1 +1,1 @@
-# python_project
+# Stock data Extraction and Visualization
